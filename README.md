@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Rewant.
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning data science, python, and SQL.
-- 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me "khadkarewant47@gmail.com"
+👋 Hi, I'm Rewant Khdaka.
+I build backend systems with Laravel (PHP) and MySQL.
 
-<!---
-Gionee1/Gionee1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Current focus (2026):
+- Kargo (Laravel rebuild): CRUD → Auth → Roles → Tracking → API
+- Quizmania: security hardening + production-grade refactor
+
+🧰 Tech:
+Laravel, PHP, MySQL, REST APIs, Git/GitHub
+
+📫 Contact:
+Email: khadkarewant47@gmail.com
